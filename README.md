@@ -21,7 +21,7 @@ Prior to building, you will need basic knowledge of [Git](https://www.atlassian.
 ### Visit these important repositories:
 
 - [Devices](https://github.com/FireDroid-Devices)
-- [Changelogs](https://github.com/FireDroid-Devices/Changelogs)
+- [Changelogs](https://github.com/FireDroid-AOSP/Changelogs)
 
 
 # FireDroid Project #
